@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1722172655496,
+      "path": "Things to look into.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1733558480114,
+      "path": "400 Zettelkasten/Self-Improvement/Training/Box Training.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1733558495781,
+      "path": "400 Zettelkasten/Self-Improvement/Learning/T.E.D. Method.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1733558561185,
+      "path": "400 Zettelkasten/Self-Improvement/Productivity/Time Management/Time blocking.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1755240989412,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1755240998373,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1755241048491,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/Analyzing a firm.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241048491,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/Analyzing an industry.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241048491,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/Banks.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241048491,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/all major financial ratios.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241078647,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/best finance and investing books and resources.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241078648,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/Financial statements.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241078648,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/Finance Learning Roadmap.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241078648,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/every major investing strategy.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241078648,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/company structure.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241090614,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/Legendary hedge fund managers.md"
+            },
+            {
+              "type": "file",
+              "ctime": 1755241090614,
+              "path": "400 Zettelkasten/Majors/Finance/Learning/legendary figures across finance, banking, economics, and investing.md"
+            }
+          ],
+          "title": "Learning"
+        }
+      ],
+      "title": "Finance"
+    }
+  ]
+}

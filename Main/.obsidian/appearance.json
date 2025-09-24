@@ -1,0 +1,9 @@
+{
+  "accentColor": "#566771",
+  "cssTheme": "Minimal",
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": []
+}

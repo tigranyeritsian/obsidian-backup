@@ -1,0 +1,16 @@
+{
+  "focusNewTab": true,
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Attachments",
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible",
+  "foldIndent": true,
+  "autoConvertHtml": true,
+  "spellcheck": false
+}

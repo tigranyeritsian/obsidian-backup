@@ -1,0 +1,63 @@
+ - [ ] The use of private intelligence operators
+ - [ ] Triple moving average crossover strategy
+ - [ ] Lengthened partial exercises
+ - [ ] Intrinsic value
+ - [ ] Books to read
+ - [ ] Most powerful hacking tools
+ - [ ] CIA training manuals
+ - [ ] Military's and intelligence agencies' training
+ - [ ] Democracy and constitutional republic
+ - [ ] Enhanced interrogation
+ - [ ] Tale of two cities
+ - [ ] Proxies
+ - [ ] OSINT
+ - [ ] Candlestick Patterns
+ - [ ] News Screener
+ - [ ] DHT
+ - [ ] Psychological Dominance
+ - [ ] Deep State
+ - [ ] anatomy of deep state
+ - [ ] Diplomacy and Foreign Affairs
+ - [ ] Internal Affairs
+ - [ ] capital in the twenty-first century
+ - [ ] modern military doctrine
+ - [ ] sharpe 3 strategy
+ - [ ] mob/crowd psychology
+ - [ ] Manipulation And Brainwashing
+ - [ ] edward bernays
+ - [ ] psywar
+ - [ ] social engineering
+ - [ ] mind control
+ - [ ] psychological warfare techniques
+ - [ ] dominate the subjects
+ - [ ] étienne de la boétie 
+ - [ ] bank capitalism
+ - [ ] Game Theory
+ - [ ] bread and circuses
+ - [ ] reasons for a monopoly
+ - [ ] preprogramming
+ - [ ] problems different markets have
+ - [ ] summary of why nations fail
+ - [ ] IPOs
+ - [ ] M&A
+ - [ ] Private Equity
+ - [ ] How $BN Deals Actually Get Done
+ - [ ] Who Are the Power Players
+ - [ ] How Do You Negotiate
+ - [ ] Debt
+ - [ ] Business Valuation
+ - [ ] Macroeconomic factors
+ - [ ] order flow
+ - [ ] options strategies
+ - [ ] future strategies
+ - [ ] René Girard
+ - [ ] julius evola
+ - [ ] René Guénon
+ - [ ] Oswald Spengler
+ - [ ] Ernst Jünger
+ - [ ] Carl Schmitt
+ - [ ] Martin Heidegger
+ - [ ] nassim taleb
+ - [ ] grimm fairy tales
+ - [ ] how to influence people
+ - [ ] psychopaths
