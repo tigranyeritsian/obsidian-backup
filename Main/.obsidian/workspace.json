@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ec6dcb320c57643",
+            "id": "c6c2abc2b2182dcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dddddddddddddddd.md",
+                "file": "400 Zettelkasten/Majors/Psychology/Manipulation/Manipulation Techniques.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dddddddddddddddd"
+              "title": "Manipulation Techniques"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#working-on  ",
+                "query": "tag:#working-on",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,13 +187,21 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0ec6dcb320c57643",
+  "active": "c6c2abc2b2182dcb",
   "lastOpenFiles": [
+    "400 Zettelkasten/Majors/Psychology/Manipulation/Understanding Manipulation A Guide to Common Techniques and Strategies.md",
+    "400 Zettelkasten/Majors/Psychology/Manipulation/Manipulation Techniques.md",
+    "400 Zettelkasten/Majors/Psychology/Manipulation/The Art of the Unseen Attack A Guide to Covert Manipulation.md",
+    "400 Zettelkasten/Books/To Read/Untitled.md",
+    "100 Links/PsyOps.md",
+    "400 Zettelkasten/Majors/Psychology/Manipulation/\"Alice in Wonderland\" Technique.md",
+    "300 To Organize/The Science and Art of Authentic Confidence.md",
+    "400 Zettelkasten/Books/To Read/Beyond Quick Fixes Books for Meaningful Growth.md",
     "dddddddddddddddd.md",
+    "300 To Organize/uabsvdidbdbjb.md",
     "100 Links/To Organize.md",
     "100 Links/Untitled.md",
     "400 Zettelkasten/Majors/Technology/YouTube/The NotPeta Attack A Digital Apocalypse.md",
@@ -212,15 +220,6 @@
     "100 Links/Dilemma.md",
     "400 Zettelkasten/Majors/Psychology/YouTube/The Game of Life.md",
     "100 Links/Anti-trust Policy.md",
-    "100 Links/Monopoly.md",
-    "400 Zettelkasten/Majors/History/YouTube/Title Hitler's Missed Opportunity in the East.md",
-    "100 Links/WW2.md",
-    "400 Zettelkasten/Majors/Geopolitics/YouTube/Two-Pronged Assault on American Democracy.md",
-    "100 Links/Democracy.md",
-    "400 Zettelkasten/Majors/History/YouTube/Robert Hansen The FBI's 20-Year Traitor.md",
-    "100 Links/Espionage.md",
-    "100 Links/FBI.md",
-    "400 Zettelkasten/Majors/Economics/YouTube/Финансовая Тишина КНР.md",
     "400 Zettelkasten/Majors/Business/Technology",
     "400 Zettelkasten/Majors/Urban Planning/YouTube",
     "400 Zettelkasten/Majors/Sociology/YouTube",
