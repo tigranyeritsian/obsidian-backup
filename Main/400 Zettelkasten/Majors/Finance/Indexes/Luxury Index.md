@@ -1,6 +1,6 @@
 **Date**: Sep 25, 2025 09:57
 **Status**: #ready 
-**Links**: [[Indexes]] [[Finance]]
+**Links**: [[Index]] [[Finance]]
 
 A **luxury index** in finance serves as a barometer for the economic health and performance of the world's leading publicly-traded companies that produce and sell high-end consumer goods and services.1 Think of it as a specialized stock market index, similar to the S&P 500, but instead of tracking a broad market, it focuses exclusively on the purveyors of luxury.2 These indices are closely watched by investors and analysts as they can be indicative of overall consumer confidence and the spending habits of the wealthy.
 
