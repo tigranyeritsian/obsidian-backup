@@ -1,7 +1,7 @@
 **Date**: Jul 27, 2025 20:19
 **Author**: Zbigniew Brzezinski
 **Status**: #ready 
-**Links**: [[Books]] [[Geopolitics]] [[Analysis]]
+**Links**: [[100 Links/Books]] [[Geopolitics]] [[Analysis]]
 
 ### Introduction: A New Era of Global Power
 

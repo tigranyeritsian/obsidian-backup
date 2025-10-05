@@ -1,6 +1,6 @@
 **Date**: Aug 24, 2025 21:52
 **Status**: #ready 
-**Links**: [[To Read]] [[Books]]
+**Links**: [[To Read]] [[100 Links/Books]]
 
 The Value of Reading**  
 **Critique of Trendy Self-Help**  

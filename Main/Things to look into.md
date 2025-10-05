@@ -61,4 +61,7 @@
  - [ ] grimm fairy tales
  - [ ] how to influence people
  - [ ] psychopaths
+ - [ ] order books
+ - [ ] order flow algorithm strategy
+ - [ ] statistical arbitrage
  - [ ] [Then & Now](https://www.youtube.com/@ThenNow/videos)
