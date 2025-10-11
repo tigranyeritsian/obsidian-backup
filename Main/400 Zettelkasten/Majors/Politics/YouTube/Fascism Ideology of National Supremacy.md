@@ -1,8 +1,8 @@
 **Date**: Sep 25, 2025 15:25
-**Status**: #working-on
-**Links**: [[To Organize]] [[Political Ideology]] [[Nationalism]] [[Totalitarianism]] [[Mass Politics]] [[Interwar Period]] [[Italy]] [[Germany]] [[Racial Purity]]
+**Status**: #ready 
+**Links**: [[Political Ideology]] [[Nationalism]] [[Totalitarianism]] [[Mass Politics]] [[Italy]] [[Germany]] [[Race]]
 
-Definition and Origins**  
+Definition and Origins
 Fascism is a political ideology centered on passionate, mystical nationalism that unites a nation and prioritizes its greatness above all else. It emerged in interwar Italy under Mussolini and Nazi Germany under Hitler, with influences including Gustave Le Bon's crowd psychology, Georges Sorel's revolutionary syndicalism, and Hegel's philosophy of the state as an embodiment of national spirit.  
 
 **Core Ideas and Influences**  

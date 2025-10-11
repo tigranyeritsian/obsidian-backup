@@ -1,6 +1,6 @@
 **Date**: Sep 25, 2025 11:46
-**Status**: #working-on
-**Links**: [[To Organize]] 
+**Status**: #ready 
+**Links**: [[Politics]] [[Power]] [[Oligarchy]] [[Corporate]] [[USA]]
 
 **Corporate Oligarchic Takeover**  
 Structures of democratic capitalism weakened since 1971 by corporate assault on popular movements (anti-war, feminist, ecological). Key events include Reagan breaking the air traffic controllers union, NAFTA, welfare reform, Glass-Steagall repeal, media consolidation, and defunding of public broadcasting. Result: Transformation into a system controlled by global speculators and corporate entities.
@@ -22,7 +22,5 @@ Climate requires mass civil disobedience (e.g., Extinction Wall Street protest),
 
 **Final Thoughts**  
 Resistance must center on relationships with the oppressed (e.g., George Floyd protests) to maintain credibility. Censorship will escalate as Biden's unpopular policies face pushback. Only unequivocal opposition to systemic oppression can prevent authoritarian collapse.
-
-**Tags**: oligarchy, media dysfunction, democratic party decline, economic inequality, christian fascism, climate crisis, corporate control, resistance movements
 
 ## References: [YouTube](https://www.youtube.com/watch?v=B2jyzp09_g8)

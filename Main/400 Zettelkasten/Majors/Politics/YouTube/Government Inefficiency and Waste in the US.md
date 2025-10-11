@@ -1,8 +1,6 @@
 **Date**: Sep 25, 2025 15:24
-**Status**: #working-on
-**Links**: [[To Organize]] 
-
-Government Inefficiency and Waste in the US**
+**Status**: #ready 
+**Links**: [[Government]] [[Inefficiency]] [[USA]]  
 
 **Constitutional Design and Structural Inefficiency**
 The US system of separated powers, checks and balances, and diffused authority creates inherent inefficiency. Power divided between branches, departments, and levels of government leads to constant conflict ("barroom brawl") rather than decisive action. This structure, designed to prevent tyranny, hinders quick and efficient implementation of policies and projects, requiring immense resources to achieve basic results.

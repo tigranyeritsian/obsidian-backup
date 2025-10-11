@@ -1,6 +1,6 @@
 **Date**: Sep 25, 2025 16:16
-**Status**: #working-on
-**Links**: [[To Organize]] [[Aristotle]] [[Oligarchy]] [[Political Theory]] [[Wealth And Power]] [[Government Instability]] [[Regime Types]] [[Ancient Philosophy]] [[Political Economy]] [[Social Hierarchy]] [[Power Dynamics]]
+**Status**: #ready 
+**Links**: [[Aristotle]] [[Oligarchy]] [[Political Theory]] [[Philosophy]]
 
 Aristotle's Classification of Government**
 Aristotle categorized governments into true forms (monarchy, aristocracy, polity) and their perverted counterparts (tyranny, oligarchy, democracy). Oligarchy is the perverted form of aristocracy, shifting focus from the virtuous best (aristos) to the wealthy few.

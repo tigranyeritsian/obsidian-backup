@@ -1,8 +1,8 @@
 **Date**: Sep 25, 2025 16:03
-**Status**: #working-on
-**Links**: [[To Organize]] 
+**Status**: #ready 
+**Links**: [[National Socialsm]] [[Nationalism]] [[Political Ideology]] [[Fascism]]
 
-Distinction from National Socialism**  
+Distinction from National Socialism
 Fascism and national socialism are fundamentally different ideologies. Fascism, rooted in Giovanni Gentile's actual idealism, rejects biological racism. In contrast, national socialism is inherently racist. Historical evidence shows Italian fascists protected Jews (e.g., Margherita Sarfati, 10,000 Jewish party members, refusal to deport Jews to Nazi camps). Anti-Semitism in fascism was religious, not biological, and allowed conversion, unlike Nazi racial determinism.  
 
 **Philosophical Foundations**  
@@ -19,8 +19,5 @@ Fascism is a "third position" beyond left/right, combining nationalism, syndical
 
 **Media Misrepresentation**  
 Mainstream media conflates fascism with national socialism and the far right. This stems from language barriers and Marxist/Soviet propaganda. The AfD and other groups are not necessarily fascist, lacking the core tenets of actual idealism. Understanding fascism's true basis is vital to combat its appeal, as its ideas resonate with those valuing collective action and spiritual unity.  
-
-**Title**: Fascism's Actual Idealism: Reality, Democracy, and Misconceptions  
-**Tags**: actual idealism, Giovanni Gentile, Italian fascism, anti-Semitism, totalitarianism, third position, national socialism, media portrayal, historical revisionism, collectivism
 
 ## References: [YouTube](https://www.youtube.com/watch?v=q_ReESRfV8g)

@@ -1,8 +1,7 @@
 **Date**: Sep 25, 2025 16:05
-**Status**: #working-on
-**Links**: [[To Organize]] 
+**Status**: #ready 
+**Links**: [[Liberalism]] [[Political Ideology]]
 
-Core Issue**
 American political terminology is too loose, particularly with the term "liberal," which is often incorrectly used as a synonym for Democrat, progressive, or leftist. This misuse is redundant, confusing, and obscures the distinct political tradition of liberalism.
 
 **Historical Evolution**

@@ -1,6 +1,6 @@
 **Date**: Oct 01, 2025 14:12
 **Status**: #working-on
-**Links**: [[To Organize]] [[Zionism]] [[Colonialism]] [[Nakba]] [[Genocide]] [[Impunity]] [[International Law]] [[Historical Context]] [[Palestinian Resistance]] [[Settler Colonialism]] [[Balfour Declaration]] [[Holocaust]] [[Nakba Denial]] [[Occupation]] [[Greater Israel]] [[Gaza War]] [[International Criminal Court]] [[West Bank]] [[Ethnic Cleansing]] [[White Supremacy]] [[Jewish Supremacy]]
+**Links**: [[To Organize]] [[Zionism]] [[Colonialism]] [[Nakba]] [[Genocide]] [[Impunity]] [[International Law]] [[Athenian and US Democracy]] [[Palestinian Resistance]] [[Settler Colonialism]] [[Balfour Declaration]] [[Holocaust]] [[Nakba Denial]] [[Occupation]] [[Greater Israel]] [[Gaza War]] [[International Criminal Court]] [[West Bank]] [[Ethnic Cleansing]] [[White Supremacy]] [[Jewish Supremacy]]
 
 Biblical Foundations**
 The Jewish narrative originates in the Torah, describing God's covenant with Abraham and the promised land of Canaan. This story forms the basis for Jewish national identity and connection to Israel, though lacking significant external historical corroboration.
