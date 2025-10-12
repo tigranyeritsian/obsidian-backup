@@ -1,0 +1,41 @@
+ - [ ] The use of private intelligence operators
+ - [ ] Lengthened partial exercises
+ - [ ] Most powerful hacking tools
+ - [ ] CIA training manuals
+ - [ ] Military's and intelligence agencies' training
+ - [ ] Democracy and constitutional republic
+ - [ ] Enhanced interrogation
+ - [ ] Tale of two cities
+ - [ ] Proxies
+ - [ ] OSINT
+ - [ ] Psychological Dominance
+ - [ ] Deep State
+ - [ ] anatomy of deep state
+ - [ ] Diplomacy and Foreign Affairs
+ - [ ] Internal Affairs
+ - [ ] modern military doctrine
+ - [ ] mob/crowd psychology
+ - [ ] Manipulation And Brainwashing
+ - [ ] edward bernays
+ - [ ] psywar
+ - [ ] social engineering
+ - [ ] mind control
+ - [ ] psychological warfare techniques
+ - [ ] dominate the subjects
+ - [ ] étienne de la boétie 
+ - [ ] Game Theory
+ - [ ] bread and circuses
+ - [ ] reasons for a monopoly
+ - [ ] preprogramming
+ - [ ] Who Are the Power Players
+ - [ ] How Do You Negotiate
+ - [ ] René Girard
+ - [ ] julius evola
+ - [ ] René Guénon
+ - [ ] Oswald Spengler
+ - [ ] Ernst Jünger
+ - [ ] Carl Schmitt
+ - [ ] Martin Heidegger
+ - [ ] nassim taleb
+ - [ ] grimm fairy tales
+ - [ ] how to influence people

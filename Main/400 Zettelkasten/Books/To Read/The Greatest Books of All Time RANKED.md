@@ -1,6 +1,6 @@
 **Date**: Jul 02, 2025 20:26
 **Status**: #ready
-**Links**: [[Books]]
+**Links**: [[Books 1]]
 
 - Pride and Prejudice by Jane Austen
 - 1984 by George Orwell

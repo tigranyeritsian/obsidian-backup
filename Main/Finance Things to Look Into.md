@@ -1,0 +1,25 @@
+- [ ] order books
+- [ ] order flow algorithm strategy
+- [ ] statistical arbitrage
+- [ ] Intrinsic value
+- [ ] Debt
+- [ ] Business Valuation
+- [ ] Macroeconomic factors
+- [ ] order flow
+- [ ] options strategies
+- [ ] future strategies
+- [ ] problems different markets have
+- [ ] summary of why nations fail
+- [ ] IPOs
+- [ ] M&A
+- [ ] Private Equity
+- [ ] How $BN Deals Actually Get Done
+- [ ] bank capitalism
+- [ ] sharpe 3 strategy
+- [ ] capital in the twenty-first century
+- [ ] DHT
+- [ ] Candlestick Patterns
+- [ ] News Screener
+- [ ] Triple moving average crossover strategy
+- [ ] session volume profile
+- [ ] start reading financial news, trading on tradingview and taking notes
