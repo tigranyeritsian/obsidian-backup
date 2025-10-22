@@ -1,6 +1,6 @@
 **Date**: Aug 15, 2025 11:04
 **Status**: #working-on
-**Links**: [[Business]]
+**Links**: [[Business]] [[Business Ideas]]
 
 Here are **high-potential business ideas tailored to Armenia**, leveraging its unique strengths (tech talent, diaspora, agriculture, tourism, and strategic location). Ideas are categorized by sector, with startup costs and scalability insights.
 

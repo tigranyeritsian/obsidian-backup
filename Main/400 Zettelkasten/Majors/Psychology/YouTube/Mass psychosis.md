@@ -1,6 +1,6 @@
 **Date**: Sep 27, 2025 11:29
-**Status**: #working-on
-**Links**: 
+**Status**: #ready 
+**Links**: [[Psychology]] [[Manipulation]] [[Mass Politics]]
 
 Mass psychosis describes a societal loss of reality where large groups embrace delusions. Historical examples include witch hunts and totalitarian regimes. Carl Jung identified this as humanity's greatest internal threat, leading to moral decay and collective atrocities normally unthinkable to individuals.  
 
@@ -30,8 +30,5 @@ Combating mass psychosis requires multi-pronged efforts:
 
 **Conclusion**  
 The struggle against mass psychosis, particularly totalitarianism, is a battle for minds and hearts. Vigilance, critical thought, and active defense of freedom are essential. As Albert Camus stated, absolute freedom is rebellion against an unfree world. The future hinges on individual choices: succumb to delusion or embrace responsible freedom.  
-
-**Title**: Mass Psychosis: Societal Descent into Collective Delusion  
-**Tags**: Mass Psychosis, Collective Delusion, Totalitarianism, Menticide, Psychological Manipulation, Historical Examples, Prevention Strategies
 
 ## References: [YouTube](https://www.youtube.com/watch?v=CoQDRMiV3Hs)
