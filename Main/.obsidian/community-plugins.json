@@ -1,4 +1,10 @@
 [
   "table-editor-obsidian",
-  "github-sync"
+  "github-sync",
+  "dataview",
+  "templater-obsidian",
+  "homepage",
+  "quickadd",
+  "obsidian-tasks-plugin",
+  "obsidian-style-settings"
 ]

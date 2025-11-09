@@ -1,14 +1,15 @@
-.cm-hmd-indented-code {
-	font-size: var(--font-text-size) !important;
-	font-family: var(--font-text) !important;
-	color: var(--text-normal)!important;
-	background-color: transparent !important;
+.theme-dark .x-cursor {
+    opacity: 1;
+    background: #2c95b4;
+    width: 3px;
+    left: -1px;
+    top: 5px;
+    height: calc(13px + var(--cursor-height));
+    transition: opacity;
+    top: calc( -6px - var(--header-height));
 }
 
-.cm-s-obsidian .cm-hmd-indented-code {
-	color: unset;
-	background-color: unset;
-	font-size: unset;
-	vertical-align: unset;
-	font-family: unset;
+/* Disable movement effect */
+.cursorWrapper .x-cursor::after {
+    display: none;
 }

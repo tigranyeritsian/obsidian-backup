@@ -35,5 +35,9 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "command-palette:open"
-  ]
+  ],
+  "newLinkFormat": "relative",
+  "showInlineTitle": false,
+  "strictLineBreaks": false,
+  "vimMode": false
 }

@@ -1,10 +1,14 @@
 {
-  "accentColor": "#566771",
-  "cssTheme": "Minimal",
+  "accentColor": "#385c3c",
+  "cssTheme": "Sanctum",
   "baseFontSizeAction": false,
   "baseFontSize": 16,
   "showViewHeader": true,
   "showRibbon": true,
   "enabledCssSnippets": [],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": ""
 }
