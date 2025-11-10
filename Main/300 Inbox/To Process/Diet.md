@@ -1,0 +1,7 @@
+Omega-3
+Fish - Salmon
+
+Antioxidants - blueberries, nuts, chocolate
+
+Vitamins
+B1 - leafy greens, whole grains, eggs

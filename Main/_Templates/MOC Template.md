@@ -16,5 +16,6 @@ Brief description of this knowledge domain.
 ```dataview
 TABLE status as Status, file.mtime as "Modified"
 FROM #zettel AND #
+WHERE file.name != ""
 SORT file.mtime DESC
 LIMIT 20

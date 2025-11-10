@@ -13,22 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "600 Projects & Goals/Organizing Obsidian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Organizing Obsidian"
-            }
-          },
-          {
-            "id": "73417b900db04085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "600 Projects & Goals/Organizing Obsidian.md",
+                "file": "500 MOCs/Health MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Organizing Obsidian"
+              "title": "Health MOC"
             }
           }
         ]
@@ -78,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:type/goal",
+                "query": "tag:#health",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,12 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Majors/Finance/Trading/MACD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MACD"
+              "title": "Outgoing links"
             }
           },
           {
@@ -186,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -198,9 +182,7 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "github-sync:Sync with Remote": false,
       "templater-obsidian:Templater": false,
@@ -209,16 +191,26 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "500 MOCs/Diet MOC.md",
+    "500 MOCs/Health MOC.md",
+    "300 Inbox/To Process/Diet.md",
+    "400 Zettelkasten/Self-Improvement/Diet.md",
+    "300 Inbox/310 Fleeting/202407231642.md",
+    "300 Inbox/310 Fleeting/202409151405.md",
+    "300 Inbox/To Process/Fiscal Policy.md",
+    "300 Inbox/310 Fleeting/202411151850.md",
+    "300 Inbox/To Process",
+    "300 Inbox/310 Fleeting/202411241558.md",
+    "600 Projects & Goals/Organizing Obsidian.md",
+    "500 MOCs/Goals MOC.md",
+    "000 Home.md",
+    "_Templates/MOC Template.md",
     "_Templates/Goal Template.md",
     "_Templates/Project Template.md",
     "_Templates/YouTube Template.md",
     "_Templates/Zettel Template.md",
-    "_Templates/MOC Template.md",
     "_Templates/Fleeting Template.md",
     "_Templates/Literature Template.md",
-    "600 Projects & Goals/Organizing Obsidian.md",
-    "500 MOCs/Goals MOC.md",
-    "000 Home.md",
     "500 MOCs/Projects & Goals MOC.md",
     "500 MOCs/Business MOC.md",
     "500 MOCs/Projects MOC.md",
@@ -226,15 +218,6 @@
     "Other Things to Look Into.md",
     "500 MOCs/How To MOC.md",
     "500 MOCs/Inbox MOC.md",
-    "500 MOCs/People MOC.md",
-    "500 MOCs/Books MOC.md",
-    "500 MOCs/Urban Planning MOC.md",
-    "500 MOCs/Technology MOC.md",
-    "500 MOCs/Sociology MOC.md",
-    "500 MOCs/Race MOC.md",
-    "500 MOCs/Marketing MOC.md",
-    "500 MOCs/Management MOC.md",
-    "500 MOCs/Finance MOC.md",
     "900 Archive/Processed",
     "300 Inbox/310 Fleeting/09/11",
     "300 Inbox/310 Fleeting/09",
@@ -244,7 +227,6 @@
     "500 MOCs",
     "400 Zettelkasten/Areas/Education/YouTube",
     "400 Zettelkasten/Areas/Education",
-    "400 Zettelkasten/Areas/Theology/YouTube",
     "200 Source Material/Images/18 future arenas of competition.png",
     "200 Source Material/Images/Note Taking Methods.png",
     "200 Source Material/Images/Buy and Hold Finviz.png",
