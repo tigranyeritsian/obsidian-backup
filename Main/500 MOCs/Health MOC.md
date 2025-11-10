@@ -16,7 +16,9 @@ Overall health MOC.
 ```dataview
 TABLE status as Status, file.mtime as "Modified"
 FROM #health
-WHERE file.name != "Hea"
+WHERE file.name != "Health MOC"
+WHERE file.name != "Diet MOC"
 SORT file.mtime DESC
 LIMIT 20
 ```
+

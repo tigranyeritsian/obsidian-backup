@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 MOCs/Health MOC.md",
+                "file": "300 Inbox/310 Fleeting/202408121934.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Health MOC"
+              "title": "202408121934"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#health",
+                "query": "tag:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,14 +190,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "56adff57c0ec499c",
   "lastOpenFiles": [
+    "300 Inbox/To Process/Business Ideas.md",
+    "300 Inbox/310 Fleeting/202409151405.md",
     "500 MOCs/Diet MOC.md",
     "500 MOCs/Health MOC.md",
     "300 Inbox/To Process/Diet.md",
     "400 Zettelkasten/Self-Improvement/Diet.md",
     "300 Inbox/310 Fleeting/202407231642.md",
-    "300 Inbox/310 Fleeting/202409151405.md",
     "300 Inbox/To Process/Fiscal Policy.md",
     "300 Inbox/310 Fleeting/202411151850.md",
     "300 Inbox/To Process",
@@ -217,7 +219,6 @@
     "300 Inbox/310 Fleeting/091120252054.md",
     "Other Things to Look Into.md",
     "500 MOCs/How To MOC.md",
-    "500 MOCs/Inbox MOC.md",
     "900 Archive/Processed",
     "300 Inbox/310 Fleeting/09/11",
     "300 Inbox/310 Fleeting/09",

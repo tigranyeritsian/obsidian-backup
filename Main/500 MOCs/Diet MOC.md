@@ -3,6 +3,7 @@ tags:
   - type/moc
   - "#health"
 created: 2025-11-10 21:23
+moc: "[[Health MOC]]"
 ---
 # MOC: Diet MOC
 

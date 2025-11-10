@@ -1,7 +1,3 @@
-### Link: [[Fleeting]] 
-
-### Tags: 
-
 recycling business, get government contracts to clean the cities from waste, take that waste and recycle it into building materials and start building commercial and residential buildings 
 
 create a REIT(real estate investment trust), get money by loans or by investors, buy some real estate, put a little money in it and sell or give it for rent 
@@ -15,5 +11,3 @@ handicraft business to export Armenian cultural works 
 home cleaning business, buildings maintenance contracts 
 
 street food stalls business
-
-## References:
