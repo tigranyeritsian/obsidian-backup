@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Inbox/310 Fleeting/202408121934.md",
+                "file": "000 Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "202408121934"
+              "title": "000 Home"
             }
           }
         ]
@@ -190,8 +190,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56adff57c0ec499c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "000 Home.md",
+    "300 Inbox/310 Fleeting/202408121934.md",
     "300 Inbox/To Process/Business Ideas.md",
     "300 Inbox/310 Fleeting/202409151405.md",
     "500 MOCs/Diet MOC.md",
@@ -205,7 +207,6 @@
     "300 Inbox/310 Fleeting/202411241558.md",
     "600 Projects & Goals/Organizing Obsidian.md",
     "500 MOCs/Goals MOC.md",
-    "000 Home.md",
     "_Templates/MOC Template.md",
     "_Templates/Goal Template.md",
     "_Templates/Project Template.md",
@@ -218,7 +219,6 @@
     "500 MOCs/Projects MOC.md",
     "300 Inbox/310 Fleeting/091120252054.md",
     "Other Things to Look Into.md",
-    "500 MOCs/How To MOC.md",
     "900 Archive/Processed",
     "300 Inbox/310 Fleeting/09/11",
     "300 Inbox/310 Fleeting/09",
