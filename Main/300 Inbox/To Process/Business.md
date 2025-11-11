@@ -1,3 +1,6 @@
+It's recommended to start with low prices or offer services for free to garner initial interest and get customers invested in the process.
+
+#### Business Ideas
 recycling business, get government contracts to clean the cities from waste, take that waste and recycle it into building materials and start building commercial and residential buildings 
 
 create a REIT(real estate investment trust), get money by loans or by investors, buy some real estate, put a little money in it and sell or give it for rent 

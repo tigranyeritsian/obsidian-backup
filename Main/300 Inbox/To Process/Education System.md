@@ -1,7 +1,3 @@
-### Link: [[Fleeting]]
-
-### Tags: #education 
-
 Problems with our School System
 1. Industrial age values: making new factory workers
 2. Lack of autonomy: no freedom to manage your time
@@ -10,4 +6,4 @@ Problems with our School System
 5. How we learn
 6. Lecturing
 
-## References:
+A new education system where specialized teaching starts as soon as in 3rd or 4th classes.

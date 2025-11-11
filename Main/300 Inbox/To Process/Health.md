@@ -1,7 +1,3 @@
-### Link: [[Fleeting]]
-
-### Tags: #health #testosterone
-
 1. low carb diet
 2. being sedentary (not walking enough)
 3. not eating enough calories
@@ -28,4 +24,11 @@
 24. eating soy
 25. not competing
 
-## References: [YouTube](https://www.youtube.com/watch?v=3Lgx7JzNHB0&list=WL&index=2)
+##### Diet
+Omega-3
+Fish - Salmon
+
+Antioxidants - blueberries, nuts, chocolate
+
+Vitamins
+B1 - leafy greens, whole grains, eggs
