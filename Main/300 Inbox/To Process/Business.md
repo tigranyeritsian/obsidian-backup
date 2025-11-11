@@ -14,3 +14,7 @@ handicraft business to export Armenian cultural works 
 home cleaning business, buildings maintenance contracts 
 
 street food stalls business
+
+
+
+Identify the weakest point in the customer value chain, research customer attracting

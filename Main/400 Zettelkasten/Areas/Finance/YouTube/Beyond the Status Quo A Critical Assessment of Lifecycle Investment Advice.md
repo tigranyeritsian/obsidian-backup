@@ -1,6 +1,6 @@
 **Date**: Jul 04, 2025 13:01
 **Status**: #ready 
-**Links**: [[Investing]]
+**Links**: [[../../../../100 Links/Investing]]
 
 The paper "Beyond the Status Quo: A Critical Assessment of Lifecycle Investment Advice" challenges two traditional tenets of lifecycle investing: diversifying across stocks and bonds, and reducing equity allocations with age.
 

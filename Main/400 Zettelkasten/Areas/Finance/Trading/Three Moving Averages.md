@@ -2,7 +2,7 @@
 
 ### Status: #done
 
-### Links: [[Trading]] [[Finance]]
+### Links: [[../../../../100 Links/Trading]] [[Finance]]
 
 Add three moving averages(TEMA)
 Add exponential moving average(EMA)

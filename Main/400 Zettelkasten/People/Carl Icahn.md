@@ -1,6 +1,6 @@
 **Date**: Sep 30, 2025 21:55
 **Status**: #ready 
-**Links**: [[People]] [[Finance]] [[Investing]] [[Investment Strategy]]
+**Links**: [[People]] [[Finance]] [[../../100 Links/Investing]] [[Investment Strategy]]
 
 ## Brief History
 

@@ -1,6 +1,6 @@
 **Date**: Aug 24, 2025 21:58
 **Status**: #ready 
-**Links**: [[Trading]] [[Finance]]
+**Links**: [[../../../../100 Links/Trading]] [[Finance]]
 
 **Trading Performance**
 Fabio Valentini stands as one of the world's best day traders and scalpers, with remarkable returns in the Robins World Cup trading championships: 69%, 90%, 218%, and over 160% in consecutive competitions. With over 2,000 trades across 12 months, he has generated seven figures of wealth through trading alone.

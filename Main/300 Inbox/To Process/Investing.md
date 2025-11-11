@@ -1,6 +1,4 @@
-### Link: [[Fleeting]]
-
-### Tags: #investing 
+P/E > 40 sell - overvalued stock
 
 Keep under radar companies that are being sold, which are given rather pessimistic forecasts
 
@@ -8,5 +6,3 @@ Keep under radar companies that are being sold, which are given rather pessimist
 1. Unknown companies
 2. Outdated or questionable companies
 3. Controversial 
-
-## References: [YouTube](https://www.youtube.com/watch?v=3_5DGymQSUs&list=WL&index=3)
