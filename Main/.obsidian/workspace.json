@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "400 Zettelkasten/Areas/Finance/Learning/Finance Learning Roadmap.md",
+                "file": "_Templates/Zettel Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Finance Learning Roadmap"
+              "title": "Zettel Template"
             }
           },
           {
@@ -53,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Historical Figures in Finance"
+            }
+          },
+          {
+            "id": "c1eaf5aabb1d795d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 MOCs/Finance MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Finance MOC"
             }
           }
         ],
@@ -216,13 +240,13 @@
   },
   "active": "1f98b3bcb18de5b2",
   "lastOpenFiles": [
-    "400 Zettelkasten/Areas/Finance/Learning/Legendary hedge fund managers.md",
-    "400 Zettelkasten/Historical Figures in Finance.md",
-    "500 MOCs/Historical Figures MOC.md",
     "_Templates/Zettel Template.md",
-    "500 MOCs/Finance MOC.md",
-    "400 Zettelkasten/Areas/Finance/Learning/legendary figures across finance, banking, economics, and investing.md",
     "400 Zettelkasten/Areas/Finance/Learning/Finance Learning Roadmap.md",
+    "400 Zettelkasten/Historical Figures in Finance.md",
+    "500 MOCs/Finance MOC.md",
+    "400 Zettelkasten/Areas/Finance/Learning/Legendary hedge fund managers.md",
+    "500 MOCs/Historical Figures MOC.md",
+    "400 Zettelkasten/Areas/Finance/Learning/legendary figures across finance, banking, economics, and investing.md",
     "400 Zettelkasten/Areas/Finance/Learning/best finance and investing books and resources.md",
     "400 Zettelkasten/Areas/Finance/Learning/Financial statements.md",
     "400 Zettelkasten/Areas/Finance/Learning/Banks.md",

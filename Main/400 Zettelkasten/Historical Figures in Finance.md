@@ -1,11 +1,11 @@
 ---
 tags:
   - zettel
-  - area/
-  - status/seedling
+  - historical-figures
+  - finance
+status: working-on
 created: 2025-11-12 17:52
 modified: 2025-11-12 17:52
-moc:
 ---
 # Historical Figures in Finance
 
@@ -183,6 +183,3 @@ moc:
 - Up: [[../500 MOCs/Finance MOC|Finance MOC]] [[Historical Figures MOC]]
 - Across: [[Related Zettel 1]], [[Related Zettel 2]]
 - Down: [[Supporting Zettel]]
-
-## Tags
-#historical-figures #finance

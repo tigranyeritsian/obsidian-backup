@@ -11,7 +11,8 @@ created: 2025-11-09 17:55
 ## Key Zettels (Dataview)
 ```dataview
 TABLE status as Status, file.mtime as "Modified"
-FROM #zettel AND #
-WHERE file.name != ""
+FROM [[Finance MOC]]
+WHERE file.name != "000 Home"
 SORT file.mtime DESC
 LIMIT 20
+```
