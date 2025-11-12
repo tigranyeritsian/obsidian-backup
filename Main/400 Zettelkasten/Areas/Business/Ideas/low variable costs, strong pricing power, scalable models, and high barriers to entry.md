@@ -1,6 +1,6 @@
 **Date**: Aug 15, 2025 11:04
 **Status**: #working-on
-**Links**: [[Business]] [[Business Ideas]]
+**Links**: [[../../../../100 Links/Business]] [[Business Ideas]]
 
 Businesses with the highest profit margins typically share common traits: **low variable costs, strong pricing power, scalable models, and high barriers to entry**. Below is a breakdown of top-margin industries, key drivers, and real-world examples, categorized by sector.
 

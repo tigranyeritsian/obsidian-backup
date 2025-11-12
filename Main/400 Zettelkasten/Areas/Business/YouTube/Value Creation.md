@@ -1,6 +1,6 @@
 **Date**: Jun 27, 2025 15:15
 **Status**: #ready
-**Links**: [[Business]]
+**Links**: [[../../../../100 Links/Business]]
 
 ### **Step 1: Research & Understand Your Audience**
 

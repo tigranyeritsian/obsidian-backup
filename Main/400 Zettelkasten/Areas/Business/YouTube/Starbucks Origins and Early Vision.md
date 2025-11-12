@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 13:02
 **Status**: #ready 
-**Links**: [[Business]] 
+**Links**: [[../../../../100 Links/Business]] 
 
 Starbucks Origins and Early Vision**  
 Howard Schultz joined Starbucks in 1982 as head of marketing, inspired by Italian coffee culture while visiting Milan. He envisioned Starbucks as a "third place" beyond home and work, focusing on community and experience, not just coffee beans. The founders initially resisted serving drinks, Schultz persisted, and opened the first coffee bar in 1983.

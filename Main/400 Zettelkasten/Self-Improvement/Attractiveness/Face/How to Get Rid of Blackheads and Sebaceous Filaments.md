@@ -2,7 +2,7 @@
 
 ### Status: #working-on
 
-### Links: [[Health]] [[Attractiveness]] [[../../../../100 Links/Diet]]
+### Links: [[../../../../100 Links/Health]] [[Attractiveness]] [[../../../../100 Links/Diet]]
 
 High levels of sebum cause acne, blackheads and sebaceous filaments.
 Here're ways to decrease the level of sebum:

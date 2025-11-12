@@ -1,6 +1,6 @@
 **Date**: Aug 24, 2025 19:22
 **Status**: #ready 
-**Links**: [[Business]] [[Finance]] [[Funding]] [[Startups]]
+**Links**: [[../../../../100 Links/Business]] [[Finance]] [[Funding]] [[Startups]]
 
 ## Two Business Funding Baskets
 Startups fall into two funding categories: explosive growth businesses seeking acquisition or IPO (attracting venture capital), and lifestyle businesses prioritizing ownership and control (not suitable for VC funding). This summary focuses on explosive growth venture capital funding.

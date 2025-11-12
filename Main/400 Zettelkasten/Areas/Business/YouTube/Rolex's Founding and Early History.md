@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 13:11
 **Status**: #ready 
-**Links**: [[Business]]
+**Links**: [[../../../../100 Links/Business]]
 
 Rolex's Founding and Early History**  
 Founded in 1905 as Wilsdorf & Davis in London by Hans Wilsdorf, the company initially imported Swiss watches. Wilsdorf pioneered chronometer certification and created the "Rolex" brand in 1908. After anti-German sentiment during WWI, the company relocated to Geneva in 1919, leveraging Switzerland's watchmaking heritage.

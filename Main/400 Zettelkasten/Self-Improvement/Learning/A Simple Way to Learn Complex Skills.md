@@ -1,6 +1,6 @@
 **Date**: Jul 28, 2025 16:29
 **Status**: #ready 
-**Links**: [[Learning]]
+**Links**: [[../../../100 Links/Learning]]
 
 This video explains that some skills are difficult to learn because their components are interdependent, unlike simple skills such as brewing tea which involve discrete, separately practiceable steps. An example of a complex skill given is playing Starcraft, where various actions like resource collection, building, scouting, attacking, and defending all rely on each other.
 

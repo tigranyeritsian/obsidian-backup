@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 12:59
 **Status**: #ready 
-**Links**: [[History]] [[Germany]] [[Politics]]
+**Links**: [[History]] [[Germany]] [[../../../../100 Links/Politics]]
 
 **European Context Post-Unification**
 German unification in 1871 profoundly altered the European balance of power. The new empire emerged as a major power after defeating Denmark, Austria, and France. Key consequences included the annexation of Alsace-Lorraine from France, creating lasting enmity, and permanently shifting the multipolar landscape involving France, Russia, Austria-Hungary, Britain, Italy, and the Ottoman Empire.

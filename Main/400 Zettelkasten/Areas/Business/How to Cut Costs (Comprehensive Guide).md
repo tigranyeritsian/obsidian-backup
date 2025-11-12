@@ -1,6 +1,6 @@
 **Date**: Oct 05, 2025 11:44
 **Status**: #ready 
-**Links**: [[Business]] [[Productivity]] [[Financial Strategy]] [[Management]]
+**Links**: [[../../../100 Links/Business]] [[../../../100 Links/Productivity]] [[Financial Strategy]] [[../../../100 Links/Management]]
 
 ## I. Step 1: Diagnose Where the Money Goes
 

@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Zettel Template"
             }
+          },
+          {
+            "id": "99bd110a02330861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Inbox/330 To Process/Business.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Business"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,35 +214,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "99bd110a02330861",
   "lastOpenFiles": [
-    "_Templates/MOC Template.md",
+    "300 Inbox/_/**Dynamic obsolescence** Products.md",
+    "300 Inbox/330 To Process/Business.md",
+    "300 Inbox/_/Planned Obsolescence Products.md",
+    "300 Inbox/_/Government Contracts.md",
+    "300 Inbox/330 To Process/Industrial Complexes.md",
+    "300 Inbox/_/Industrial Complexes.md",
+    "300 Inbox/330 To Process/Military.md",
+    "300 Inbox/_/Morning Routine.md",
+    "300 Inbox/_/Drones and Anti-Drone weapons.md",
+    "000 Home.md",
+    "300 Inbox/_/ChatGPT Prompts/ChatGPT Prompt for Writing a Report on a Person.md",
     "_Templates/Zettel Template.md",
+    "_Templates/MOC Template.md",
     "_Templates/YouTube Template.md",
     "_Templates/Goal Template.md",
     "_Templates/Project Template.md",
-    "000 Home.md",
     "300 Inbox/320 YouTube/The Cotton Case.md",
     "600 Projects & Goals/Organizing Obsidian.md",
     "500 MOCs/Goals MOC.md",
-    "300 Inbox/To Process/Business.md",
     "300 Inbox/310 Fleeting/202407222320.md",
-    "300 Inbox/To Process/Investing.md",
+    "300 Inbox/330 To Process/Investing.md",
     "300 Inbox/310 Fleeting/202407222325.md",
-    "300 Inbox/To Process/Health.md",
+    "300 Inbox/330 To Process/Health.md",
     "300 Inbox/310 Fleeting/202407222343.md",
     "300 Inbox/310 Fleeting/202407231642.md",
     "300 Inbox/To Process/Diet.md",
-    "300 Inbox/To Process/Learning.md",
-    "300 Inbox/310 Fleeting/202407241833.md",
-    "300 Inbox/To Process/Productivity.md",
-    "300 Inbox/To Process/Marketing.md",
-    "300 Inbox/310 Fleeting/202407241847.md",
-    "300 Inbox/310 Fleeting/202407242004.md",
-    "300 Inbox/310 Fleeting/202407251528.md",
-    "300 Inbox/310 Fleeting/202407251530.md",
-    "300 Inbox/To Process/Business Ideas.md",
-    "300 Inbox/To Process",
+    "300 Inbox/330 To Process",
     "900 Archive/Processed",
     "300 Inbox/310 Fleeting/09/11",
     "300 Inbox/310 Fleeting/09",

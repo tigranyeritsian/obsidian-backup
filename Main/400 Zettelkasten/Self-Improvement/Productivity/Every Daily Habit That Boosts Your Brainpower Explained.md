@@ -1,6 +1,6 @@
 **Date**: Aug 14, 2025 22:53
 **Status**: #ready 
-**Links**: [[Productivity]] [[Habits]] [[Routine]]
+**Links**: [[../../../100 Links/Productivity]] [[Habits]] [[Routine]]
 
 This article outlines the daily routine of Jacob, a freelance designer who follows specific habits to maximize his brain power and productivity. The core principle is the "90-minute rule" - working in focused 90-minute blocks that align with the brain's natural ultradian rhythms.
 

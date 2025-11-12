@@ -1,6 +1,6 @@
 **Date**: Jul 13, 2025 18:38
 **Status**: #ready 
-**Links**: [[Politics]]
+**Links**: [[../../../../100 Links/Politics]]
 
 ## **Step 1: Clarify the Goal**
 

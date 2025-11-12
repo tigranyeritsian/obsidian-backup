@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 12:53
 **Status**: #ready 
-**Links**: [[Business]] [[Trucking]]
+**Links**: [[../../../../100 Links/Business]] [[Trucking]]
 
 **Current State of American Trucks**
 American trucks are large in cabs but have maintained freight dimensions from the last century. While other freight systems like trains and ships have grown larger, US trucks remain legally limited to 80,000 lb.

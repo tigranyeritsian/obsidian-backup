@@ -1,6 +1,6 @@
 **Date**: Jul 28, 2025 16:34
 **Status**: #ready 
-**Links**: [[Working]] [[Learning]]
+**Links**: [[Working]] [[../../../100 Links/Learning]]
 
 This video, titled "how to easily enter flow state in 2 minutes," by riskambition, explains what a flow state is and provides psychological tactics to achieve and maintain it.
 

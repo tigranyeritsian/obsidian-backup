@@ -2,7 +2,7 @@
 
 ### Status: #working-on
 
-### Links: [[Self-Improvement]] [[Learning]]
+### Links: [[Self-Improvement]] [[../../../100 Links/Learning]]
 
 1. test yourself, reviewing book is not efficient as having challenges
 2. when testing yourself, better use different topics to force brain to extract knowledge

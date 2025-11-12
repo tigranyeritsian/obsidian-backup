@@ -1,6 +1,6 @@
 **Date**: Sep 25, 2025 11:46
 **Status**: #ready 
-**Links**: [[Politics]] [[Power]] [[Oligarchy]] [[Corporate]] [[USA]]
+**Links**: [[../../../../100 Links/Politics]] [[Power]] [[Oligarchy]] [[Corporate]] [[USA]]
 
 **Corporate Oligarchic Takeover**  
 Structures of democratic capitalism weakened since 1971 by corporate assault on popular movements (anti-war, feminist, ecological). Key events include Reagan breaking the air traffic controllers union, NAFTA, welfare reform, Glass-Steagall repeal, media consolidation, and defunding of public broadcasting. Result: Transformation into a system controlled by global speculators and corporate entities.

@@ -1,6 +1,6 @@
 **Date**: Jul 01, 2025 22:45
 **Status**: #working-on
-**Links**: [[Productivity]]
+**Links**: [[../../../100 Links/Productivity]]
 
 #### **Key Themes:**
 

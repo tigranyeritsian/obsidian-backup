@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 13:15
 **Status**: #ready 
-**Links**: [[Anti-trust Policy]] [[Business]] [[Monopoly]]
+**Links**: [[Anti-trust Policy]] [[../../../../100 Links/Business]] [[Monopoly]]
 
 Standard Oil's Move to New Jersey**  
 Standard Oil faced legal challenges in Ohio, prompting a reorganization to New Jersey in 1892. This exploited a loophole allowing New Jersey corporations to hold out-of-state stock. The "trust" was dissolved nominally, but control remained centralized in New York, with Rockefeller's inner circle directing operations remotely.  

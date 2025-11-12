@@ -1,6 +1,6 @@
 **Date**: Jul 28, 2025 20:39
 **Status**: #ready 
-**Links**: [[Business]] [[Illegal]]
+**Links**: [[../../../../100 Links/Business]] [[Illegal]]
 
 This video provides a satirical guide on how to become a professional smuggler, outlining various aspects from making contacts to transporting goods and managing a criminal enterprise.
 

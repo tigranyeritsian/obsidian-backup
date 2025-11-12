@@ -1,7 +1,7 @@
 **Date**: Aug 07, 2025 19:05
 **Author**: Niccolò Machiavelli
 **Status**: #ready 
-**Links**: [[100 Links/Books]] [[Power]] [[Politics]] [[Manipulation]] [[Morality]]
+**Links**: [[100 Links/Books]] [[Power]] [[../../../100 Links/Politics]] [[Manipulation]] [[Morality]]
 ## Historical Context
 
 "The Prince" (Il Principe) was written by Niccolò Machiavelli in 1513, after he was exiled from Florence when the Medici family returned to power. It was dedicated to Lorenzo de' Medici as a political guide and an attempt to regain his position in Florentine government. The work emerged from Italy's political fragmentation, foreign invasions, and Machiavelli's firsthand observations of power dynamics during his 14 years as a senior official in the Florentine Republic.

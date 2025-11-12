@@ -2,7 +2,7 @@
 
 ### Status: #working-on
 
-### Links: [[Health]]
+### Links: [[../../../100 Links/Health]]
 
 Liver
 Тауроурсодезоксихолевая кислота (Tudca)

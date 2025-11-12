@@ -1,6 +1,6 @@
 **Date**: Jul 28, 2025 15:27
 **Status**: #ready 
-**Links**: [[Management]]
+**Links**: [[../../../../100 Links/Management]]
 
 **Employee Dissatisfaction with Management** A study by MIT found that American workers seek new jobs due to management and company culture ten times more frequently than for a pay increase. Even major companies like Google and Apple face criticism for toxic leadership despite their efforts to create positive work environments.
 

@@ -1,6 +1,6 @@
 **Date**: Aug 15, 2025 11:03
 **Status**: #working-on
-**Links**: [[Business]] [[Business Ideas]]
+**Links**: [[../../../../100 Links/Business]] [[Business Ideas]]
 
 
 

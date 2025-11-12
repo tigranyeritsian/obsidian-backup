@@ -1,9 +1,3 @@
-### Date: Dec 08, 2024 16:19
-
-### Status: #working-on
-
-### Links: [[Industrial Complex]]
-
 The following have been considered examples of industrial complexes:
 - Academic–industrial complex[27](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-27)[28](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-28)[29](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-29)[30](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-30)
 - [Animal–industrial complex](https://en.wikipedia.org/wiki/Animal%E2%80%93industrial_complex)[31](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-31)
@@ -24,5 +18,3 @@ The following have been considered examples of industrial complexes:
 - [Poverty industrial complex](https://en.wikipedia.org/wiki/Poverty_industrial_complex "Poverty industrial complex")
 - [Prison–industrial complex](https://en.wikipedia.org/wiki/Prison%E2%80%93industrial_complex "Prison–industrial complex")[45](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-45) or criminal (justice) industrial complex[46](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-46)
 - White savior industrial complex[47](https://en.wikipedia.org/wiki/Industrial_complex#cite_note-47)
-
-## References: [**Industrial complex**](https://en.wikipedia.org/wiki/Industrial_complex)

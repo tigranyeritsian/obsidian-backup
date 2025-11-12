@@ -1,6 +1,6 @@
 **Date**: Aug 02, 2025 14:48
 **Status**: #ready 
-**Links**: [[Business]]
+**Links**: [[../../../../100 Links/Business]]
 
 ## Main Argument
 

@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 13:12
 **Status**: #ready 
-**Links**: [[Technology]] [[Business]]
+**Links**: [[Technology]] [[../../../../100 Links/Business]]
 
 TSMC: The Unseen Pillar of Global Technology**  
 

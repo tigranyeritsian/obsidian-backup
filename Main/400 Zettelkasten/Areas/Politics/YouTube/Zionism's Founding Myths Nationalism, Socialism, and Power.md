@@ -1,6 +1,6 @@
 **Date**: Oct 01, 2025 14:17
 **Status**: #ready 
-**Links**: [[Israel]] [[History]] [[Politics]] [[Nationalism]] [[Political Ideology]]
+**Links**: [[Israel]] [[History]] [[../../../../100 Links/Politics]] [[Nationalism]] [[Political Ideology]]
 
 **Labor Movement's Socialist Facade**  
 David Ben-Gurion consolidated power within the pre-state Jewish labor movement (Yishuv), using the kibbutz movement as a facade of pioneering socialism. Kibbutzim were idealized as egalitarian symbols of Zionist values but represented a tiny fraction of the Jewish population. Their image served to掩盖 (veil) a growing capitalist, urban, and unequal society. This facade functioned to raise funds and promote national solidarity, eliminating class friction to serve the primary goal of establishing a Jewish state.

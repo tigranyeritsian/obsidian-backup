@@ -2,7 +2,7 @@
 
 ### Status: #ready
 
-### Links: [[Learning]]
+### Links: [[../../../100 Links/Learning]]
 
 # Trial(T)
 - download [the book](https://libgen.is/) or [the course]((https://hotimcourses.com/course-list/)

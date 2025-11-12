@@ -1,6 +1,6 @@
 **Date**: Aug 24, 2025 12:02
 **Status**: #ready 
-**Links**: [[Business]] [[Airlines]]
+**Links**: [[../../../../100 Links/Business]] [[Airlines]]
 
 United, American, and Delta operate as a classic oligopoly, deliberately avoiding competition on price and product features. Instead, they compete primarily through their route networks, each developing a distinct strategic approach.
 

@@ -1,7 +1,7 @@
 **Date**: Aug 04, 2025 14:10
 **Status**: #ready 
 **Source**: #youtube
-**Links**: [[Business]]
+**Links**: [[../../../../100 Links/Business]]
 
 
 ## Origins of Virgin Atlantic

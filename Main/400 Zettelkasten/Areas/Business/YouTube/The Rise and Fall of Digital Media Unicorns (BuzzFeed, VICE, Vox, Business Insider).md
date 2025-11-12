@@ -1,6 +1,6 @@
 **Date**: Aug 07, 2025 14:10
 **Status**: #ready 
-**Links**: [[Business]] [[Media]]
+**Links**: [[../../../../100 Links/Business]] [[Media]]
 
 This transcript analyzes the meteoric rise and subsequent decline of digital media pioneers BuzzFeed and VICE, along with similar players like Vox and Business Insider, highlighting the flawed business model that doomed them despite massive audiences and cultural impact.
 

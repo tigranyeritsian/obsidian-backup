@@ -1,6 +1,6 @@
 **Date**: Jun 27, 2025 14:32
 **Status**: #ready
-**Links**: [[Business]] [[Industries]]
+**Links**: [[../../../../100 Links/Business]] [[Industries]]
 
 1. E-commerce
 2. Al software and services

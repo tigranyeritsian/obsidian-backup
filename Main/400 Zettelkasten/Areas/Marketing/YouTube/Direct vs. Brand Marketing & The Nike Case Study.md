@@ -1,6 +1,6 @@
 **Date**: Aug 04, 2025 15:01
 **Status**: #ready 
-**Links**: [[Marketing]]
+**Links**: [[../../../../300 Inbox/330 To Process/Marketing]]
 
 ## Direct vs. Brand Marketing & The Nike Case Study
 

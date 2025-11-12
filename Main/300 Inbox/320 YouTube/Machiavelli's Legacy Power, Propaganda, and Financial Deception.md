@@ -1,6 +1,6 @@
 **Date**: Sep 27, 2025 14:19
 **Status**: #working-on
-**Links**: [[To Organize]] [[Political Philosophy]] [[Propaganda]] [[Inflation]] [[Wealth Inequality]] [[Economic Policy]] [[Tyranny]] [[Fiat Currency]] [[Machiavelli]] [[Stalin]] [[Modern Politics]]
+**Links**: [[To Organize]] [[Political Philosophy]] [[Propaganda]] [[Inflation]] [[Wealth Inequality]] [[../330 To Process/Economic Policy]] [[Tyranny]] [[Fiat Currency]] [[Machiavelli]] [[Stalin]] [[Modern Politics]]
 
 Machiavelli's Enduring Influence**  
 The term "secrecy" is repugnant in a free society, yet a "monolithic and ruthless conspiracy" relies on covert means. Machiavelli, born in Florence (1469) into a family emphasizing classical education, entered Florentine politics in 1498 as Secretary of the Second Chancery and later the Ten of War. His diplomatic missions across Europe exposed him to realpolitik, shaping his seminal work, *The Prince*. This guide to acquiring and maintaining power, published posthumously (1532), was banned by the Catholic Church for 200 years yet profoundly influenced rulers worldwide.

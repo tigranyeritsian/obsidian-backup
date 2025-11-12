@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 13:07
 **Status**: #ready 
-**Links**: [[Finance]] [[Business]]
+**Links**: [[Finance]] [[../../../../100 Links/Business]]
 
 **Global Payment Network Evolution**  
 Visa and Mastercard dominate global payments, enabling transactions across currencies and borders without direct consumer or merchant relationships. The network, built over decades, connects banks and relies on interchange fees, creating an essential yet controversial system.

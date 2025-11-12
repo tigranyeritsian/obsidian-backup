@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 12:53
 **Status**: #ready 
-**Links**: [[Business]] [[Power]]
+**Links**: [[../../../../100 Links/Business]] [[Power]]
 
 Company Profile and Mission
 Palantir Technologies leverages AI-driven data analysis to integrate and transform government systems, advertising itself as essential for defense and security actions including lethal strikes. Positioned for "bad times," it emphasizes dominance and robustness, prioritizing efficiency and enhanced capabilities in warfare and surveillance.

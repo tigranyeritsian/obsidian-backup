@@ -1,6 +1,6 @@
 **Date**: Jun 27, 2025 14:39
 **Status**: #ready
-**Links**: [[Business]] [[Industries]]
+**Links**: [[../../../../100 Links/Business]] [[Industries]]
 
 ### 1. Energy (Oil, Gas, and Renewables)
 

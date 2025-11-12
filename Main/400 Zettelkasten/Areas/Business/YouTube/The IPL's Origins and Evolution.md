@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 13:13
 **Status**: #ready 
-**Links**: [[Business]] [[Sports]] [[India]]
+**Links**: [[../../../../100 Links/Business]] [[Sports]] [[India]]
 
 The IPL's Origins and Evolution**  
 The Indian Premier League (IPL) began in 2008, transforming cricket into a high-energy, 3-hour entertainment spectacle. It compressed traditional 5-day test matches and introduced Bollywood glamour, cheerleaders, and fireworks to attract a broader audience. Founded by Lalit Modi, the IPL leveraged India's growing middle class and TV penetration to create a lucrative sports league.  

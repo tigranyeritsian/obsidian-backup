@@ -1,6 +1,6 @@
 **Date**: Jul 04, 2025 12:39
 **Status**: #ready 
-**Links**: [[People]] [[Politics]]
+**Links**: [[People]] [[../../100 Links/Politics]]
 
 - **Early Life and Education** Liz Truss was born in Oxford in 1975. Her parents were left-wing, and she attended Roundhay School before studying Philosophy, Politics, and Economics at Oxford University. While at Oxford, she was a member of the Liberal Democrat Youth and Students committee but later became a member of the Conservative Party.
 

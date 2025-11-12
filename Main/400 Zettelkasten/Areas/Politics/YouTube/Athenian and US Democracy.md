@@ -1,6 +1,6 @@
 **Date**: Sep 25, 2025 15:24
 **Status**: #ready 
-**Links**: [[Politics]] [[Democracy]] [[History]] [[USA]] [[Ancient Greece]] 
+**Links**: [[../../../../100 Links/Politics]] [[Democracy]] [[History]] [[USA]] [[Ancient Greece]] 
 
 Historical Context
 Ancient Greek city-states were independent urban centers with surrounding territories. Athens emerged as the most documented during its political Golden Age (507-321 BCE), inventing democracy. The term derives from Greek "demos" (people) and "kratos" (power), meaning "rule by the people." After Athens fell, democracy wasn't practiced again until the founding of the United States 2,000 years later, though the American form differs significantly. This comparison explores their origins, democratic principles, and undemocratic aspects.

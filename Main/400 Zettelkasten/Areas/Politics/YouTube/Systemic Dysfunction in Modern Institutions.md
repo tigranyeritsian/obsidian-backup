@@ -1,6 +1,6 @@
 **Date**: Aug 24, 2025 19:21
 **Status**: #ready 
-**Links**: [[Corruption]] [[Governance]] [[Politics]] [[Finance]]
+**Links**: [[Corruption]] [[Governance]] [[../../../../100 Links/Politics]] [[Finance]]
 
 ## Structured Unaccountability in Modern Institutions
 Dr. Janine Woodell, author of "Unaccountable," discusses how elite power brokers across philanthropy, governance, corporations, finance, and academia create a corrupt system. She coins the term "structured unaccountability" to describe organizational siloing where employees (e.g., bank staff) are trained only on limited checklists, making complex problems unsolvable for individuals. Digitalization accelerates this.

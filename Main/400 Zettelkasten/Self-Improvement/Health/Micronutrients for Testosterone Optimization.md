@@ -1,6 +1,6 @@
 **Date**: Aug 26, 2025 12:51
 **Status**: #ready 
-**Links**: [[Testosterone]] [[Nutrition]] [[Vitamins]] [[../../../100 Links/Diet]] [[Health]]
+**Links**: [[Testosterone]] [[Nutrition]] [[Vitamins]] [[../../../100 Links/Diet]] [[../../../100 Links/Health]]
 
 **Introduction**
 Micronutrients (vitamins and minerals) are non-negotiable for optimizing testosterone, vitality, and confidence. Fitness often overlooks them in favor of macros and calories, yet they are essential for hormone production and bodily functions. They form enzymes, act as antioxidants, and directly impact testosterone synthesis.
