@@ -1,6 +1,6 @@
 **Date**: Aug 20, 2025 19:24
 **Status**: #ready 
-**Links**: [[Psychology]] [[Communication]]
+**Links**: [[Psychology]] [[../../../../100 Links/Communication]]
 
 ### The Core Problem
 
