@@ -1,7 +1,6 @@
 ---
 tags:
   - zettel
-  - type/permanent
   - area/
   - status/seedling
 created: <% tp.file.creation_date() %>

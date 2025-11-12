@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Inbox/To Process/Business.md",
+                "file": "_Templates/Zettel Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Business"
+              "title": "Zettel Template"
             }
           }
         ]
@@ -191,8 +191,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "300 Inbox/310 Fleeting/202407222320.md",
+    "_Templates/MOC Template.md",
+    "_Templates/Zettel Template.md",
+    "_Templates/YouTube Template.md",
+    "_Templates/Goal Template.md",
+    "_Templates/Project Template.md",
+    "000 Home.md",
+    "300 Inbox/320 YouTube/The Cotton Case.md",
+    "600 Projects & Goals/Organizing Obsidian.md",
+    "500 MOCs/Goals MOC.md",
     "300 Inbox/To Process/Business.md",
+    "300 Inbox/310 Fleeting/202407222320.md",
     "300 Inbox/To Process/Investing.md",
     "300 Inbox/310 Fleeting/202407222325.md",
     "300 Inbox/To Process/Health.md",
@@ -208,15 +217,6 @@
     "300 Inbox/310 Fleeting/202407251528.md",
     "300 Inbox/310 Fleeting/202407251530.md",
     "300 Inbox/To Process/Business Ideas.md",
-    "300 Inbox/310 Fleeting/202407251536.md",
-    "300 Inbox/To Process/Economic Policy.md",
-    "300 Inbox/310 Fleeting/202407261341.md",
-    "300 Inbox/310 Fleeting/202407261846.md",
-    "300 Inbox/To Process/Goals.md",
-    "300 Inbox/310 Fleeting/202407272052.md",
-    "300 Inbox/310 Fleeting/202407272055.md",
-    "300 Inbox/310 Fleeting/202407272057.md",
-    "300 Inbox/310 Fleeting/202407281210.md",
     "300 Inbox/To Process",
     "900 Archive/Processed",
     "300 Inbox/310 Fleeting/09/11",
