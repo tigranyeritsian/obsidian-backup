@@ -1,16 +1,21 @@
 ---
 tags:
   - type/moc
-created: 2025-11-09 17:50
+created: 2025-11-12 14:41
 ---
-# MOC: Business MOC
+# MOC: Business Ideas MOC
+
+## Overview
+Brief description of this knowledge domain.
 
 ## Core Themes
-- [[Business Ideas MOC]]
+- [[Theme 1 MOC]]
+- [[Theme 2 MOC]]
 
 ## Key Zettels (Dataview)
 ```dataview
 TABLE status as Status, file.mtime as "Modified"
 FROM #zettel AND #
+WHERE file.name != ""
 SORT file.mtime DESC
 LIMIT 20
