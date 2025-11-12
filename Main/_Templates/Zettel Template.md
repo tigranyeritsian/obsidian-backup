@@ -5,7 +5,6 @@ tags:
   - status/seedling
 created: <% tp.file.creation_date() %>
 modified: <% tp.file.creation_date() %>
-moc:
 ---
 # <% tp.file.title %>
 
