@@ -178,20 +178,11 @@ moc:
     
     - **Legacy**: Ran largest Ponzi scheme in history ($65B); exposed 2008.
     - **Impact**: Shattered trust in Wall Street/SEC.
-## Core Claim
-Your own articulated idea (not just copied).
-
-## Evidence
-- Specific examples, data, quotes
-- [[Literature Note]] (link to source)
-
-## Implications
-- So what? Why does this matter?
 
 ## Connections
-- Up: 
+- Up: [[../500 MOCs/Finance MOC|Finance MOC]] [[Historical Figures MOC]]
 - Across: [[Related Zettel 1]], [[Related Zettel 2]]
 - Down: [[Supporting Zettel]]
 
 ## Tags
-#h
+#historical-figures #finance
